@@ -5,31 +5,6 @@
 
 ---
 
-## 📁 Folder Structure
-
-```
-leetcode-solutions/
-├── easy/
-│   └── two-sum.java
-├── medium/
-│   └── longest-substring-without-repeating-characters.java
-├── hard/
-│   └── median-of-two-sorted-arrays.java
-└── README.md
-```
-
----
-
-## 📊 Progress
-
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy    | updating... |
-| 🟡 Medium  | updating... |
-| 🔴 Hard    | updating... |
-
----
-
 ## 🔗 My Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-lakshmananmeyyappan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/lakshmananmeyyappan/)
@@ -38,4 +13,3 @@ leetcode-solutions/
 
 ---
 
-> 💡 Solutions are written in **Java**. Auto-synced using [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0).
